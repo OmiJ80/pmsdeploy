@@ -1,0 +1,15 @@
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\config\CorsConfig.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\controller\AppointmentController.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\controller\DocumentController.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\controller\OAuthController.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\controller\PatientController.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\controller\PrescriptionController.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\entity\Appointment.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\entity\Document.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\entity\Patient.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\entity\Prescription.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\PmsApplication.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\repo\AppointmentRepository.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\repo\DocumentRepository.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\repo\PatientRepository.java
+C:\PMS Manus\spring-backend\src\main\java\com\pmsmanus\repo\PrescriptionRepository.java

@@ -1,0 +1,14 @@
+com\pmsmanus\repo\DocumentRepository.class
+com\pmsmanus\controller\AppointmentController$StatusPayload.class
+com\pmsmanus\PmsApplication.class
+com\pmsmanus\controller\AppointmentController.class
+com\pmsmanus\entity\Appointment.class
+com\pmsmanus\controller\PrescriptionController.class
+com\pmsmanus\controller\PatientController.class
+com\pmsmanus\controller\DocumentController.class
+com\pmsmanus\entity\Document.class
+com\pmsmanus\repo\AppointmentRepository.class
+com\pmsmanus\entity\Patient.class
+com\pmsmanus\entity\Prescription.class
+com\pmsmanus\repo\PatientRepository.class
+com\pmsmanus\repo\PrescriptionRepository.class
